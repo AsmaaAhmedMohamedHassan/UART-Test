@@ -1,6 +1,6 @@
 # UART-Test
 ##### This project to test uart driver work correctly , 
-##### two microcontroller connect to each other(to are atmega32) ,
+##### two microcontroller connect to each other(two are atmega32) ,
 ##### first atmega send an array serially to second atmega,
 ##### second atmega recieve the array and then display the contact of it on LCD.
 
